@@ -6,9 +6,6 @@ requirements :
 if you use environment variable python3 on your terminal, you can edit dev.ts and build.ts
 find ``python "${pythonFilePath}"`` and replace to ``python3 "${pythonFilePath}"``
 
-## How to run development
-`npm run dev`
-
 ## How to run build and start
 `npm run build`
 

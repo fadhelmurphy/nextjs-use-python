@@ -1,5 +1,7 @@
 'use server'
 
 export async function helloPython() {
-return "HELLO FROM PYTHON 0,HELLO FROM PYTHON 1,HELLO FROM PYTHON 2,HELLO FROM PYTHON 3,HELLO FROM PYTHON 4,HELLO FROM PYTHON 5"
+return 'use python'
+list_python = ",".join([f"HELLO FROM PYTHON {i}" for i in range(6)])
+print(list_python)
 }

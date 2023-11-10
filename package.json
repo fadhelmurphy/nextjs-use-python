@@ -5,7 +5,6 @@
   "scripts": {
     "help": "next build -h",
     "build": "ts-node build.ts",
-    "dev": "ts-node dev.ts",
     "start": "next start",
     "lint": "next lint"
   },
