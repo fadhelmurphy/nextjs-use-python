@@ -14,6 +14,8 @@ find ``python "${pythonFilePath}"`` and replace to ``python3 "${pythonFilePath}"
 
 `npm run start`
 
+# NOTES
+
 **This project is not recommend to you use on production**
 
 # CREDITS
