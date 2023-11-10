@@ -1,0 +1,5 @@
+'use server'
+
+export async function helloPython() {
+return "HELLO FROM PYTHON 0,HELLO FROM PYTHON 1,HELLO FROM PYTHON 2,HELLO FROM PYTHON 3,HELLO FROM PYTHON 4,HELLO FROM PYTHON 5"
+}
